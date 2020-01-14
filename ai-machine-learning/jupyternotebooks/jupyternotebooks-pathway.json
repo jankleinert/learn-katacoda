@@ -3,27 +3,27 @@
   "icon": "fa-openshift",
   "courses": [
     {
-      "external_link": "https://learn.openshift.com/jupyternotebooks/jupyter-notebooks/",
+      "external_link": "https://learn.openshift.com/ai-machine-learning/courses/jupyternotebooks/jupyter-notebooks/",
       "course_id": "jupyter-notebooks",
       "title": "Deploying a Jupyter Notebook Image"
     },
     {
-      "external_link": "https://learn.openshift.com/jupyternotebooks/custom-notebooks/",
+      "external_link": "https://learn.openshift.com/ai-machine-learning/courses/jupyternotebooks/custom-notebooks/",
       "course_id": "custom-notebooks",
       "title": "Building Custom Notebook Images"
     },
     {
-      "external_link": "https://learn.openshift.com/jupyternotebooks/jupyter-workspace/",
+      "external_link": "https://learn.openshift.com/ai-machine-learning/courses/jupyternotebooks/jupyter-workspace/",
       "course_id": "jupyter-workspace",
       "title": "Persistent Workspace for Notebooks"
     },
     {
-      "external_link": "https://learn.openshift.com/jupyternotebooks/jupyterhub-service/",
+      "external_link": "https://learn.openshift.com/ai-machine-learning/courses/jupyternotebooks/jupyterhub-service/",
       "course_id": "jupyterhub-service",
       "title": "Deploying JupyterHub as a Service"
     },
     {
-      "external_link": "https://learn.openshift.com/jupyternotebooks/jupyterhub-workspace/",
+      "external_link": "https://learn.openshift.com/ai-machine-learning/courses/jupyternotebooks/jupyterhub-workspace/",
       "course_id": "jupyterhub-workspace",
       "title": "Multi-user Workspace Using JupyterHub"
     }

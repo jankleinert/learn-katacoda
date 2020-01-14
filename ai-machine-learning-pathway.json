@@ -5,7 +5,7 @@
       {
         "action": "Start Course",
         "count": 5,
-        "external_link": "https://learn.openshift.com/jupyternotebooks",
+        "external_link": "https://learn.openshift.com/ai-machine-learning/courses/jupyternotebooks",
         "course_id": "jupyternotebooks",
         "title": "Jupyter Notebooks on OpenShift",
         "description": "Get started with Jupyter Notebooks and Jupyter Hub on OpenShift"
