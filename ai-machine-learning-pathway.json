@@ -1,0 +1,14 @@
+{
+    "title": "AI and Machine Learning On OpenShift",
+    "icon": "fa-openshift",
+    "courses": [
+      {
+        "action": "Start Course",
+        "count": 5,
+        "external_link": "https://learn.openshift.com/jupyternotebooks",
+        "course_id": "jupyternotebooks",
+        "title": "Jupyter Notebooks on OpenShift",
+        "description": "Get started with Jupyter Notebooks and Jupyter Hub on OpenShift"
+      }
+    ]
+}
